@@ -3,7 +3,7 @@ Play with drag and drop container.
 
 
 ## Illustration
-![Exemple of Alien pixel](https://i.postimg.cc/rFZ29ghJ/Capture-d-e-cran-2020-12-20-a-15-11-11.png)
+![Kanban Lists](https://i.postimg.cc/rFZ29ghJ/Capture-d-e-cran-2020-12-20-a-15-11-11.png)
 
 ## Language
 - HTML5/CSS3
